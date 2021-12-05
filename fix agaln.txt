@@ -1,0 +1,17 @@
+1. got it.
+2. got it.
+3. I don' t which page is publish page.
+	Chatbox means that the textbox of stream page?("Live chat" is chat history textbox 
+and "Enter your message below" is textarea where we can input the chat)
+4.I will reduce the space on the sides and around the video
+5. I can't understand "style the waiting for live feed better"...
+It mean that I should to change the color into black , and font-size should be larger more then now?
+6. I don't understand (because I don't know what is publish page..)
+	And countdown clock meaning?
+7. It mean that the project should be opened in all browers?
+such as chrome , mozila , safari , edge?
+8. I don't understand (because I don't know what is publish page..).
+	And "Number of viewers" is just text?
+9. It mean that in the mobile the logo should be millle of header navbar.
+10. Does it mean https://demo.sendit.media/schedulestream?
+	Just I should to know her annrvation.
